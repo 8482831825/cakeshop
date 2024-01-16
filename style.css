@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#home{
+    height: 100vh;
+    background-image: url("./pexels-julias-torten-und-törtchen-1120464.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#hero{
+    background-color: black;
+}
+#home h1{
+    font-size: xx-large;
+}
+#photo{
+    background-color: black;
+}
+#video{
+    background-color: black;
+}
+#food{
+    background-color: black;
+}
+#blog{
+    background-color: black;
+    /* border-right: 0.5rem solid ; */
+}
+#follow{
+    background-color: black;
+}
+#contact{
+    background-color: black;
+}
